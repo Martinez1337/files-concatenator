@@ -1,4 +1,5 @@
 # files-concatenator
+![](https://images3.memedroid.com/images/UPLOADED119/605b3d1f0256a.jpeg)
 ## О проекте
 Данный проект является решением ИДЗ-2 по КПО. <br>
 ## О задании
